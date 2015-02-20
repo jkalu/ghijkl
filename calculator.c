@@ -11,6 +11,11 @@ return 404;
 return ((double)((double)a)/((double)b));
 }
 
+long long int mul(long lonr int a,long long int b)
+{
+return a*b;
+}
+
 int main()
 {
 long long int a,b;
